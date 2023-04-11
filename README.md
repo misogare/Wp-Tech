@@ -1,19 +1,18 @@
-# Wp-Tech
-this is a tech site fully functional and with loads of features 
-Project Name
 
-Mesvak
+#Project Name
+
+##Mesvak
 
 ![image](https://user-images.githubusercontent.com/130363781/231048750-fde6fa6c-7253-4893-abdd-7984e373e259.png)
 ![image](https://user-images.githubusercontent.com/130363781/231048884-68e561cc-84f1-4409-9e02-1e4e10b12da1.png)
 
-Description
+##Description
 
     this one is tech site on wordpress made in 2021 by me ,it has podcasts and courses to teach visitors, and it has its products like paid courses, advertisements, and tools in the near future.
     More importantly, we let them contribute to us and others like experts in other fields to find partners who can work with or even solve their problems with other members.
 
 
-Features
+##Features
 
     Fully functional WordPress website with loads of plugins
 
@@ -34,7 +33,7 @@ Features
     Contact Us page with form and extra features such as feedback, location, opening hours, and team members
 
     Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
-Technologies Used
+##Technologies Used
 
     WordPress
 
@@ -50,7 +49,7 @@ Technologies Used
 
      Ultimate Product Catalog - WordPress Catalog Plugin
 
-Installation
+##Installation
 
 "you can install this wordpress template on your xampp as i use xampp i will guide you through that 
 1.go to /backup folder on this repo 
@@ -68,7 +67,7 @@ php_value max_execution_time 300
 php_value max_input_time 300
 "
 
-Usage
+##Usage
 
 user and password for the db is 
 username= user
@@ -87,10 +86,12 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Please replace 2023 and Misogare with the appropriate information.
-Credits
+
+
+##Credits
 Misogare(mesvak)
 
-Contact
+##Contact
 Mesvakc@gmail.com
+
 I hope this updated README file is helpful! Let me know if you have any other questions.
