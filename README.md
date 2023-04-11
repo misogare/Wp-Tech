@@ -33,7 +33,7 @@
    - Contact Us page with form and extra features such as feedback, location, opening hours, and team members
 
    - Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
-##Technologies Used
+## Technologies Used
 
     WordPress
 
@@ -49,16 +49,16 @@
 
      Ultimate Product Catalog - WordPress Catalog Plugin
 
-##Installation
+## Installation
 
-"you can install this wordpress template on your xampp as i use xampp i will guide you through that 
-1.go to /backup folder on this repo 
-2.download the .wrpress file 
-3.download a wordpress from site 
-4.put the wordpress on htdocs/testsite (the name doesnt matter you can make any folder by any name)
-5.create a database
-6.go to your dashboard in wordpress and download All In One Migration
-7.import the wrpress file you just downloaded 
+you can install this wordpress template on your xampp as i use xampp i will guide you through that 
+    _go to /backup folder on this repo 
+    _download the .wrpress file 
+    _download a wordpress from site 
+    _put the wordpress on htdocs/testsite (the name doesnt matter you can make any folder by any name)
+    _create a database
+    _go to your dashboard in wordpress and download All In One Migration
+    _import the wrpress file you just downloaded 
 note:if you get the maximum file upload is 40mb or 20mb you can fix it by editing your .htaccess in wordpress folder /htdocs/testsite/.htaccess and add these codes
 ```
 php_value upload_max_filesize 300M
@@ -68,7 +68,7 @@ php_value max_execution_time 300
 php_value max_input_time 300
 ```
 
-##Usage
+## Usage
 
 user and password for the db is 
 username= user
@@ -78,8 +78,8 @@ remember : you can update the email that i used with your own email address , by
 tip:i used plugins that were updated in 2021 but they are old right now so if you want to update them do it at your own risk 
 Contributing
 put comments in here if you have any problem with the template , will try to get back to you as soon as possible
-License
-Copyright (c) 2023 Misogare
+## License
+    Copyright (c) 2023 Misogare
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -89,10 +89,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-##Credits
+## Credits
 Misogare(mesvak)
 
-##Contact
+## Contact
 Mesvakc@gmail.com
 
 I hope this updated README file is helpful! Let me know if you have any other questions.
