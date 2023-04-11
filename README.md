@@ -1,38 +1,38 @@
 
-#Project Name
+** # Project Name
 
-##Mesvak
+## Mesvak
 
 ![image](https://user-images.githubusercontent.com/130363781/231048750-fde6fa6c-7253-4893-abdd-7984e373e259.png)
 ![image](https://user-images.githubusercontent.com/130363781/231048884-68e561cc-84f1-4409-9e02-1e4e10b12da1.png)
 
-##Description
+## Description
 
     this one is tech site on wordpress made in 2021 by me ,it has podcasts and courses to teach visitors, and it has its products like paid courses, advertisements, and tools in the near future.
     More importantly, we let them contribute to us and others like experts in other fields to find partners who can work with or even solve their problems with other members.
 
 
-##Features
+## Features
 
-    Fully functional WordPress website with loads of plugins
+   - Fully functional WordPress website with loads of plugins
 
-    Uses edumall template for a professional look and feel
+   - Uses edumall template for a professional look and feel
 
-    Subscription ad to capture user email addresses
+   - Subscription ad to capture user email addresses
 
-    Second ad displays after the second visit to encourage engagement
+   - Second ad displays after the second visit to encourage engagement
 
-    Form added with Elementor plugin to capture subscription input
+   - Form added with Elementor plugin to capture subscription input
 
-    9 nav bar items, including Podcast, Technology, and Security for easy navigation
+   - 9 nav bar items, including Podcast, Technology, and Security for easy navigation
 
-    Register page that utilizes WordPress login to determine user status
+   - Register page that utilizes WordPress login to determine user status
 
-    FAQ page with two sections: Sitemap/Contents and Members
+   - FAQ page with two sections: Sitemap/Contents and Members
 
-    Contact Us page with form and extra features such as feedback, location, opening hours, and team members
+   - Contact Us page with form and extra features such as feedback, location, opening hours, and team members
 
-    Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
+   - Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
 ##Technologies Used
 
     WordPress
@@ -60,12 +60,13 @@
 6.go to your dashboard in wordpress and download All In One Migration
 7.import the wrpress file you just downloaded 
 note:if you get the maximum file upload is 40mb or 20mb you can fix it by editing your .htaccess in wordpress folder /htdocs/testsite/.htaccess and add these codes
+```
 php_value upload_max_filesize 300M
 php_value post_max_size 320M
 php_value memory_limit 400M
 php_value max_execution_time 300
 php_value max_input_time 300
-"
+```
 
 ##Usage
 
