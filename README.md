@@ -9,33 +9,32 @@ Mesvak
 
 Description
 
-this one is tech site on wordpress made in 2021 by me ,it has podcasts and courses to teach visitors, and it has its products like paid courses, advertisements, and tools in the near future.
-More importantly, we let them contribute to us and others like experts in other fields to find partners who can work with or even solve their problems with other members.
+    this one is tech site on wordpress made in 2021 by me ,it has podcasts and courses to teach visitors, and it has its products like paid courses, advertisements, and tools in the near future.
+    More importantly, we let them contribute to us and others like experts in other fields to find partners who can work with or even solve their problems with other members.
 
 
 Features
 
-Fully functional WordPress website with loads of plugins
+    Fully functional WordPress website with loads of plugins
 
-Uses edumall template for a professional look and feel
+    Uses edumall template for a professional look and feel
 
-Subscription ad to capture user email addresses
+    Subscription ad to capture user email addresses
 
-Second ad displays after the second visit to encourage engagement
+    Second ad displays after the second visit to encourage engagement
 
-Form added with Elementor plugin to capture subscription input
+    Form added with Elementor plugin to capture subscription input
 
-9 nav bar items, including Podcast, Technology, and Security for easy navigation
+    9 nav bar items, including Podcast, Technology, and Security for easy navigation
 
-Register page that utilizes WordPress login to determine user status
+    Register page that utilizes WordPress login to determine user status
 
-FAQ page with two sections: Sitemap/Contents and Members
+    FAQ page with two sections: Sitemap/Contents and Members
 
-Contact Us page with form and extra features such as feedback, location, opening hours, and team members
+    Contact Us page with form and extra features such as feedback, location, opening hours, and team members
 
-Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
-
-    Technologies Used
+    Work With Us, Advertisement, and Project Order pages for additional engagement opportunities
+Technologies Used
 
     WordPress
 
@@ -53,7 +52,7 @@ Work With Us, Advertisement, and Project Order pages for additional engagement o
 
 Installation
 
-you can install this wordpress template on your xampp as i use xampp i will guide you through that 
+"you can install this wordpress template on your xampp as i use xampp i will guide you through that 
 1.go to /backup folder on this repo 
 2.download the .wrpress file 
 3.download a wordpress from site 
@@ -67,6 +66,7 @@ php_value post_max_size 320M
 php_value memory_limit 400M
 php_value max_execution_time 300
 php_value max_input_time 300
+"
 
 Usage
 
